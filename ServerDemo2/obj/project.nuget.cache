@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7tjAONLFphN1t89e6LU5JyVlJXF6hv6+GULVMt8uW0KZwz8tanAY5AwlcBlnNw3ObnU8oIlmbfqciJN6DQkwWA==",
+  "success": true,
+  "projectFilePath": "D:\\ProgramData\\CSharpProjects\\ServerDemo2\\ServerDemo2\\ServerDemo2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GaryLiu\\.nuget\\packages\\protobuf-net\\3.0.101\\protobuf-net.3.0.101.nupkg.sha512",
+    "C:\\Users\\GaryLiu\\.nuget\\packages\\protobuf-net.core\\3.0.101\\protobuf-net.core.3.0.101.nupkg.sha512"
+  ],
+  "logs": []
+}

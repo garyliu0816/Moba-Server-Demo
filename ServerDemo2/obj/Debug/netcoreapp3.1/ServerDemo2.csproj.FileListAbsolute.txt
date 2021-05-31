@@ -1,0 +1,16 @@
+D:\ProgramData\CSharpProjects\ServerDemo2\ServerDemo2\bin\Debug\netcoreapp3.1\ServerDemo2.exe
+D:\ProgramData\CSharpProjects\ServerDemo2\ServerDemo2\bin\Debug\netcoreapp3.1\ServerDemo2.deps.json
+D:\ProgramData\CSharpProjects\ServerDemo2\ServerDemo2\bin\Debug\netcoreapp3.1\ServerDemo2.runtimeconfig.json
+D:\ProgramData\CSharpProjects\ServerDemo2\ServerDemo2\bin\Debug\netcoreapp3.1\ServerDemo2.runtimeconfig.dev.json
+D:\ProgramData\CSharpProjects\ServerDemo2\ServerDemo2\bin\Debug\netcoreapp3.1\ServerDemo2.dll
+D:\ProgramData\CSharpProjects\ServerDemo2\ServerDemo2\bin\Debug\netcoreapp3.1\ServerDemo2.pdb
+D:\ProgramData\CSharpProjects\ServerDemo2\ServerDemo2\bin\Debug\netcoreapp3.1\protobuf-net.dll
+D:\ProgramData\CSharpProjects\ServerDemo2\ServerDemo2\bin\Debug\netcoreapp3.1\protobuf-net.Core.dll
+D:\ProgramData\CSharpProjects\ServerDemo2\ServerDemo2\obj\Debug\netcoreapp3.1\ServerDemo2.AssemblyInfoInputs.cache
+D:\ProgramData\CSharpProjects\ServerDemo2\ServerDemo2\obj\Debug\netcoreapp3.1\ServerDemo2.AssemblyInfo.cs
+D:\ProgramData\CSharpProjects\ServerDemo2\ServerDemo2\obj\Debug\netcoreapp3.1\ServerDemo2.csproj.CoreCompileInputs.cache
+D:\ProgramData\CSharpProjects\ServerDemo2\ServerDemo2\obj\Debug\netcoreapp3.1\ServerDemo2.csproj.CopyComplete
+D:\ProgramData\CSharpProjects\ServerDemo2\ServerDemo2\obj\Debug\netcoreapp3.1\ServerDemo2.dll
+D:\ProgramData\CSharpProjects\ServerDemo2\ServerDemo2\obj\Debug\netcoreapp3.1\ServerDemo2.pdb
+D:\ProgramData\CSharpProjects\ServerDemo2\ServerDemo2\obj\Debug\netcoreapp3.1\ServerDemo2.genruntimeconfig.cache
+D:\ProgramData\CSharpProjects\ServerDemo2\ServerDemo2\obj\Debug\netcoreapp3.1\ServerDemo2.csprojAssemblyReference.cache

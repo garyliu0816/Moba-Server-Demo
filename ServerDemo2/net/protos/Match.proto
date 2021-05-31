@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+package Messages.Match;
+
+message MatchRequest{
+	int32 user_id = 1;
+	int32 role_id = 2;
+}
+
+message CancelMatchRequest{
+	int32 user_id = 1;
+}
+
+message MatchResponse{
+
+}
+
+message CancelMatchResponse{
+	
+}

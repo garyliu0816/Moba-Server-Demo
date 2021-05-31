@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+package Messages.Login;
+
+message LoginRequest {
+  string token = 1;
+  string username = 2;
+  string password = 3;
+}
+
+message LoginResponse {
+  int32 user_id = 1;
+  bool result = 2;
+}
